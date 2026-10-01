@@ -35,7 +35,7 @@ Titanic Dataset
 # Project Structure
 
 ```text
-AI-ML-Internship-Task-1/
+ai-ml-data-preprocessing//
 │
 ├── data/
 │   ├── titanic.csv
